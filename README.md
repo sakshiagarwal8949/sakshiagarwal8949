@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Sakshi Agarwal
 
-🎓 B.Tech Information Technology student at SKIT, Jaipur (CGPA: 9+)  
+🎓 B.Tech Information Technology student at SKIT, Jaipur  
 💡 Interested in Artificial Intelligence, Machine Learning, and Web Development  
 🚀 Currently learning DSA, Data Analytics, and building real-world projects  
 
