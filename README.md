@@ -12,3 +12,4 @@ learning fun for kids. Still early in my journey, but learning fast.
 🏆 NPTEL Java Silver Medalist | Smart India Hackathon 2025 Participant
 
 📫 Reach me: sakshiagarwal8949@gmail.com
+LinkedIn:https://linkedin.com/in/sakshi-agarwal-877320372
