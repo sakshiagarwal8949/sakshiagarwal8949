@@ -17,7 +17,7 @@
 
 ### 🚀 Projects
 
-🔹 **Virtual Health Assistant (In Progress)**  
+🔹 **Virtual Health Assistant**
 AI-based health assistant using Python (Flask/FastAPI) and ML models  
 
 🔹 **Conference Room Booking Portal**  
@@ -26,9 +26,15 @@ Web-based system for booking, availability check, and cancellation
 🔹 **Kids Learning Website**  
 Interactive educational platform with user-friendly design  
 
+🔹 **Personal Knowledge Vault**  
+Smart personal vault with multi-file upload and RAG-powered AI chatbot 
+
 ---
 
 ### 💼 Experience
+
+🤖 **AI/ML Intern / Trainee — MNIT Jaipur**  
+Hands-on training in supervised/unsupervised ML algorithms and predictive modeling
 
 👩‍💻 **Python Intern — Vault of Codes**  
 Worked on core Python concepts including OOP and file handling  
@@ -40,7 +46,7 @@ Built complete web applications within defined timelines
 
 ### 🏆 Achievements
 
-🥈 NPTEL Programming in Java — Silver Medal (Top 25%)  
+🛡️ Certified SOC Analyst- certified in threat detection, SIEM log analysis, and security incident response
 💡 Smart India Hackathon — Participant  
 📜 Certified in Python Programming and Web Development  
 
