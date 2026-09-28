@@ -2,7 +2,7 @@
 
 🎓 B.Tech Information Technology student at SKIT, Jaipur  
 💡 Interested in Artificial Intelligence, Machine Learning, and Web Development  
-🚀 Currently learning DSA, Data Analytics, and building real-world projects  
+🚀 Currently learning DSA and building real-world projects  
 
 ---
 
@@ -10,7 +10,7 @@
 
 💻 **Languages:** C++, Java, Python (learning)  
 🌐 **Web Development:** HTML, CSS, JavaScript  
-📚 **Core Concepts:** DSA, DBMS, OOP  
+📚 **Core Concepts:** DSA, DBMS, OOP, Data Analytics  
 ⚙️ **Tools:** Git, GitHub, VS Code  
 
 ---
